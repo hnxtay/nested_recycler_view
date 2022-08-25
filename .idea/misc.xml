@@ -6,9 +6,12 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.13129496402877697" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33489583333333334" />
         <entry key="app/src/main/res/layout/child_item.xml" value="0.33489583333333334" />
+        <entry key="app/src/main/res/layout/fragment_one.xml" value="0.3234375" />
+        <entry key="app/src/main/res/layout/fragment_three.xml" value="0.16875" />
         <entry key="app/src/main/res/layout/nested_recycler_view_item.xml" value="0.25" />
         <entry key="app/src/main/res/layout/parent_item.xml" value="0.33076923076923076" />
         <entry key="app/src/main/res/layout/recycler_view_item.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/menu/home_nav_menu.xml" value="0.3359375" />
       </map>
     </option>
   </component>
